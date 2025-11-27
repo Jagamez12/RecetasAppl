@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'recetas',
     'contacto',
     'seguridad',
-    'drf_yasg'
+    'drf_yasg',
+    'metricas',
 ]
 
 MIDDLEWARE = [
